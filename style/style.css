@@ -1,0 +1,14 @@
+#plateau div{
+    width: 100%;
+    height : 100%;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.grid{
+    display: inline-grid;
+}
+
+.alive{
+    background-color: blueviolet !important;
+}
